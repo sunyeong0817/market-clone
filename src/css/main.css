@@ -1,4 +1,4 @@
-.main {
+main {
   padding: 30px 20px 30px 20px;
 }
 .item-list {
@@ -55,4 +55,5 @@
   bottom: 100px;
   right: 20px;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  text-decoration: none;
 }
