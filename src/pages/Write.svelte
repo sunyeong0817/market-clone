@@ -1,4 +1,6 @@
-<div>Write 페이지 입니다.</div>
+<script>
+</script>
+
 <form id="write-form">
   <div>
     <label for="image">이미지</label>

@@ -1,8 +1,6 @@
 <script>
   let hour = new Date().getHours();
   let min = new Date().getMinutes();
-
-  setInterval(() => (min = min + 1), 1000);
 </script>
 
 <header>
@@ -30,68 +28,7 @@
 </header>
 
 <main>
-  <!--<div class="item-list">
-    <div class="item-list__img">
-      <img src="assets/img.svg" alt="img" />
-    </div>
-    <div class="item-list__info">
-      <div class="item-list__info-title">게이밍pc 팝니다.</div>
-      <div class="item-list__info-meta">역삼동 19초전</div>
-      <div class="item-list__info-price">100만원</div>
-    </div>
-  </div>
-  <div class="item-list">
-    <div class="item-list__img">
-      <img src="assets/img.svg" alt="img" />
-    </div>
-    <div class="item-list__info">
-      <div class="item-list__info-title">게이밍pc 팝니다.</div>
-      <div class="item-list__info-meta">역삼동 19초전</div>
-      <div class="item-list__info-price">100만원</div>
-    </div>
-  </div>
-  <div class="item-list">
-    <div class="item-list__img">
-      <img src="assets/img.svg" alt="img" />
-    </div>
-    <div class="item-list__info">
-      <div class="item-list__info-title">게이밍pc 팝니다.</div>
-      <div class="item-list__info-meta">역삼동 19초전</div>
-      <div class="item-list__info-price">100만원</div>
-    </div>
-  </div>
-  <div class="item-list">
-    <div class="item-list__img">
-      <img src="assets/img.svg" alt="img" />
-    </div>
-    <div class="item-list__info">
-      <div class="item-list__info-title">게이밍pc 팝니다.</div>
-      <div class="item-list__info-meta">역삼동 19초전</div>
-      <div class="item-list__info-price">100만원</div>
-    </div>
-  </div>
-  <div class="item-list">
-    <div class="item-list__img">
-      <img src="assets/img.svg" alt="img" />
-    </div>
-    <div class="item-list__info">
-      <div class="item-list__info-title">게이밍pc 팝니다.</div>
-      <div class="item-list__info-meta">역삼동 19초전</div>
-      <div class="item-list__info-price">100만원</div>
-    </div>
-  </div>
-  <div class="item-list">
-    <div class="item-list__img">
-      <img src="assets/img.svg" alt="img" />
-    </div>
-    <div class="item-list__info">
-      <div class="item-list__info-title">게이밍pc 팝니다.</div>
-      <div class="item-list__info-meta">역삼동 19초전</div>
-      <div class="item-list__info-price">100만원</div>
-    </div>
-  </div>-->
-
-  <a class="write-btn" href="#/Write">+ 글쓰기</a>
+  <a class="write-btn" href="#/write">+ 글쓰기</a>
 </main>
 
 <footer>
